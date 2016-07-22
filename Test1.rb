@@ -1,3 +1,4 @@
 for i in 1..10
   puts "Hello World"
+  puts i
 end
