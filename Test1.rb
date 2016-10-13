@@ -1,4 +1,5 @@
-for i in 1..10
-  puts "Hello World"
-  puts i
-end
+numbers =\
+"1 2 3
+4
+5"
+print numbers
